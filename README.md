@@ -1,4 +1,4 @@
-# MAFF
+# SCM
 
 CFGS Desenrotllament d'Aplicacions Web
 
